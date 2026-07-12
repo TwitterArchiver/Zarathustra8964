@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T18:19:26",
+  "last_updated": "2026-07-12T18:19:49",
   "html": {
     "https://web.archive.org/web/20260525165802if_/https://twitter.com/Zarathustra8964/status/2058955765856231857": {
       "status": "done",
@@ -591,9 +591,9 @@
       "referenced_by": [
         "20260529075635_twitter_com_Zarathustra8964_status_2060269055278522511.json"
       ],
-      "last_updated": "2026-07-12T18:10:06",
+      "last_updated": "2026-07-12T18:19:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260529075635if_/https://pbs.twimg.com/profile_images/2050532597936361472/0ca98ScM_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg": {
       "status": "done",
@@ -642,9 +642,9 @@
       "referenced_by": [
         "20260604014133_twitter_com_Zarathustra8964_status_2062349001610203364.json"
       ],
-      "last_updated": "2026-07-12T18:10:06",
+      "last_updated": "2026-07-12T18:19:42",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260604014133if_/https://pbs.twimg.com/profile_images/1918719409046147072/tF_Wzi2T_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2058188984694796288/EL6yHzsv_normal.jpg": {
       "status": "done",
@@ -685,9 +685,9 @@
         "20260608164458_twitter_com_Zarathustra8964_status_2064025904813400120.json",
         "20260611065641_twitter_com_Zarathustra8964_status_2064965023836102741.json"
       ],
-      "last_updated": "2026-07-12T18:10:07",
+      "last_updated": "2026-07-12T18:19:45",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260611065641if_/https://pbs.twimg.com/profile_images/2057140886887149568/A4paR9TY_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2064207287808557056/uV314pUF_normal.jpg": {
       "status": "done",
@@ -743,9 +743,9 @@
       "referenced_by": [
         "20260614113336_twitter_com_Zarathustra8964_status_2066121876783640601.json"
       ],
-      "last_updated": "2026-07-12T18:10:06",
+      "last_updated": "2026-07-12T18:19:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260614113336if_/https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg": {
       "status": "done",
