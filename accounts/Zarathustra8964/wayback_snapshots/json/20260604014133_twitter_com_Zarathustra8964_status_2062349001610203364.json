@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2061680334693933134",
+    "created_at": "2026-06-04T01:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062349001610203364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710006044670226432",
+          "start": 0,
+          "username": "kedrickmutayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062349001610203364",
+    "in_reply_to_user_id": "1710006044670226432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061680334693933134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kedrickmutayi 太厉害了…..祝愿你越来越好❤️❤️❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_2061680329505574913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyPViCXEAEN_KY.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2061680334693933134",
+        "created_at": "2026-06-04T01:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062349001610203364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710006044670226432",
+              "start": 0,
+              "username": "kedrickmutayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062349001610203364",
+        "in_reply_to_user_id": "1710006044670226432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061680334693933134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kedrickmutayi 太厉害了…..祝愿你越来越好❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061680329505574913"
+          ]
+        },
+        "author_id": "1710006044670226432",
+        "conversation_id": "2061680334693933134",
+        "created_at": "2026-06-02T05:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061680334693933134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlWbhXpIzI",
+              "end": 96,
+              "expanded_url": "https://x.com/kedrickmutayi/status/2061680334693933134/photo/1",
+              "media_key": "3_2061680329505574913",
+              "start": 73,
+              "url": "https://t.co/dlWbhXpIzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061680334693933134",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 74553,
+          "like_count": 8246,
+          "quote_count": 3,
+          "reply_count": 131,
+          "retweet_count": 194
+        },
+        "reply_settings": "everyone",
+        "text": "J’ai vaincu le cancer après 45 séances de chimio.\n\nUn cœur pour elle svp https://t.co/dlWbhXpIzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 114,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T18:56:57.000Z",
+        "description": "",
+        "id": "1710006044670226432",
+        "name": "M+243",
+        "pinned_tweet_id": "2043570657238110593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918719409046147072/tF_Wzi2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29044,
+          "following_count": 3615,
+          "like_count": 37772,
+          "listed_count": 10,
+          "media_count": 4169,
+          "tweet_count": 45857
+        },
+        "username": "kedrickmutayi",
+        "verified": true
+      }
+    ]
+  }
+}

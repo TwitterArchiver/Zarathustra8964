@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2069507412718186994",
+    "created_at": "2026-07-10T17:23:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T18:23:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075631894042153088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893207394416799744",
+          "start": 0,
+          "username": "Reeveeensong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075631894042153088",
+    "in_reply_to_user_id": "1893207394416799744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075077723282673956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reeveeensong 啊？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2069507412718186994",
+        "created_at": "2026-07-10T17:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075631894042153088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893207394416799744",
+              "start": 0,
+              "username": "Reeveeensong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075631894042153088",
+        "in_reply_to_user_id": "1893207394416799744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075077723282673956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reeveeensong 啊？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893207394416799744",
+        "conversation_id": "2069507412718186994",
+        "created_at": "2026-07-09T04:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075077723282673956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075077723282673956",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069507412718186994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 查拉图怎么不能给你发私信！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 138,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T07:53:23.000Z",
+        "description": "call me mi amor and guess who＇s reeeven",
+        "id": "1893207394416799744",
+        "name": "Reason?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037485153820233728/bBdOLKvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 122,
+          "like_count": 817,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Reeveeensong",
+        "verified": false
+      }
+    ]
+  }
+}

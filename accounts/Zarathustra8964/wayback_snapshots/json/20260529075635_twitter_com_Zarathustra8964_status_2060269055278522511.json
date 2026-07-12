@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2060039768130634041",
+    "created_at": "2026-05-29T07:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060269055278522511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049571056990482432",
+          "start": 0,
+          "username": "bobibobi12318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060269055278522511",
+    "in_reply_to_user_id": "2049571056990482432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060039768130634041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobibobi12318 凑男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2060039768130634041",
+        "created_at": "2026-05-29T07:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060269055278522511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049571056990482432",
+              "start": 0,
+              "username": "bobibobi12318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060269055278522511",
+        "in_reply_to_user_id": "2049571056990482432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060039768130634041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobibobi12318 凑男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049571056990482432",
+        "conversation_id": "2060039768130634041",
+        "created_at": "2026-05-28T16:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060039768130634041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060039768130634041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 149732,
+          "like_count": 279,
+          "quote_count": 2,
+          "reply_count": 213,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我很讨厌绳师48号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 109,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T19:26:47.000Z",
+        "description": "不要关注我 骂我死全家",
+        "id": "2049571056990482432",
+        "location": "sanrio",
+        "name": "bobi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050532597936361472/0ca98ScM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 54,
+          "like_count": 178,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 872
+        },
+        "username": "bobibobi12318",
+        "verified": false
+      }
+    ]
+  }
+}

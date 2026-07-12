@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2065007784576643125",
+    "created_at": "2026-06-11T09:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065007784576643125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959990232347967489",
+          "start": 3,
+          "username": "fvshgxro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065007784576643125",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064779482334916834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fvshgxro: quelle vie de merde des fois tu te demandes pourquoi t’as pas réussi ta tentative de suicide"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2065007784576643125",
+        "created_at": "2026-06-11T09:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065007784576643125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959990232347967489",
+              "start": 3,
+              "username": "fvshgxro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065007784576643125",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064779482334916834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fvshgxro: quelle vie de merde des fois tu te demandes pourquoi t’as pas réussi ta tentative de suicide"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959990232347967489",
+        "conversation_id": "2064779482334916834",
+        "created_at": "2026-06-10T18:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064779482334916834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064779482334916834",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7231,
+          "like_count": 343,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "quelle vie de merde des fois tu te demandes pourquoi t’as pas réussi ta tentative de suicide"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 122,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T14:44:34.000Z",
+        "description": "the one who left it all behind",
+        "id": "1959990232347967489",
+        "name": "•",
+        "pinned_tweet_id": "2022745654959747105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022438683819835392/_0joZrTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 275,
+          "like_count": 5880,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 3853
+        },
+        "username": "fvshgxro",
+        "verified": false
+      }
+    ]
+  }
+}

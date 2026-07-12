@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2062022670393512279",
+    "created_at": "2026-06-04T01:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T02:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062350426293542952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "560118263",
+          "start": 0,
+          "username": "bemyfluffynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062350426293542952",
+    "in_reply_to_user_id": "560118263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062022670393512279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bemyfluffynn 一切都会好起来……抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2062022670393512279",
+        "created_at": "2026-06-04T01:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062350426293542952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "560118263",
+              "start": 0,
+              "username": "bemyfluffynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062350426293542952",
+        "in_reply_to_user_id": "560118263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062022670393512279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bemyfluffynn 一切都会好起来……抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "560118263",
+        "conversation_id": "2062022670393512279",
+        "created_at": "2026-06-03T04:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062022670393512279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062022670393512279",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 119071,
+          "like_count": 4935,
+          "quote_count": 4,
+          "reply_count": 561,
+          "retweet_count": 227
+        },
+        "reply_settings": "everyone",
+        "text": "ใครผ่านมาเห็นหนูขอกำลังใจได้มั้ยคะหรือหัวใจคนละดวงก็ขอบคุณมากๆแล้วค่ะ ขอโทษที่มารบกวนอีกแล้วหนูไม่ไหวแล้วจริงๆ พยายามทำเหมือนว่าทุกอย่างโอเคแล้ว แต่มันแย่มากๆเลย พยายามที่จะไม่ร้องไห้ในเดือนเกิดของตัวเองแต่ทำไม่ได้ หนูเหนื่อยจะรักษาโรคซึมเศร้าแล้วอะ 7-8ปีที่ผ่านมามันยากมากจริงๆ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 115,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 21
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-22T07:11:50.000Z",
+        "description": "˚ ༘♡ ⋆｡˚ ทำกอวแจกของไปเรื่อย❀ ꒰ ˚i always wish him all the best for everything ☆ with you i see forever @PPKrit_Ent @Billkin_Ent .ﾟ꒱ ✧˚ ༘ ♡ ⋆｡@bewithfluffynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "PPKrit_Ent"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "Billkin_Ent"
+              },
+              {
+                "end": 157,
+                "start": 142,
+                "username": "bewithfluffynn"
+              }
+            ]
+          }
+        },
+        "id": "560118263",
+        "name": "˚₊𓆩꒰_fluffy🎀_꒱𓆪₊˚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058188984694796288/EL6yHzsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20562,
+          "following_count": 102,
+          "like_count": 49853,
+          "listed_count": 20,
+          "media_count": 4929,
+          "tweet_count": 101771
+        },
+        "username": "bemyfluffynn",
+        "verified": true
+      }
+    ]
+  }
+}

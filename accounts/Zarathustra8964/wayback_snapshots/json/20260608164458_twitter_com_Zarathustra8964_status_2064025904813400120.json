@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2058299939789353306",
+    "created_at": "2026-06-08T16:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064025904813400120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914399940811362305",
+          "start": 0,
+          "username": "bedrotter4l"
+        },
+        {
+          "end": 19,
+          "id": "810779795214581760",
+          "start": 13,
+          "username": "0b7cm"
+        },
+        {
+          "end": 32,
+          "id": "1394865879402352641",
+          "start": 20,
+          "username": "blossomumma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064025904813400120",
+    "in_reply_to_user_id": "1914399940811362305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063897196844458284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bedrotter4l @0b7cm @blossomumma 改天就发大冰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2058299939789353306",
+        "created_at": "2026-06-08T16:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064025904813400120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914399940811362305",
+              "start": 0,
+              "username": "bedrotter4l"
+            },
+            {
+              "end": 19,
+              "id": "810779795214581760",
+              "start": 13,
+              "username": "0b7cm"
+            },
+            {
+              "end": 32,
+              "id": "1394865879402352641",
+              "start": 20,
+              "username": "blossomumma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064025904813400120",
+        "in_reply_to_user_id": "1914399940811362305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063897196844458284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bedrotter4l @0b7cm @blossomumma 改天就发大冰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914399940811362305",
+        "conversation_id": "2058299939789353306",
+        "created_at": "2026-06-08T08:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063897196844458284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "810779795214581760",
+              "start": 0,
+              "username": "0b7cm"
+            },
+            {
+              "end": 19,
+              "id": "1394865879402352641",
+              "start": 7,
+              "username": "blossomumma"
+            },
+            {
+              "end": 48,
+              "id": "2058879697011019776",
+              "start": 32,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063897196844458284",
+        "in_reply_to_user_id": "810779795214581760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058299939789353306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0b7cm @blossomumma 这可是我们小花爱看的… @Zarathustra8964 我都不敢点进去（话说我想大冰了 肥肥的大冰🤲🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 116,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T19:24:59.000Z",
+        "description": "p 偏左位 微s",
+        "id": "1914399940811362305",
+        "name": "₍˄•༝•˄₎◞✩︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057562300442140672/AeCN9ID4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 284
+        },
+        "username": "bedrotter4l",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-19T09:32:21.000Z",
+        "description": "樹洞、戀愛學、男生女生那些事🫧、热梗、熱點新聞、分享慾、秘密を話せる場所、女子の本音、男女のあれこれ、好奇心害死流量",
+        "id": "810779795214581760",
+        "location": "树洞｜男女のあれこれ",
+        "name": "草莓🍓女の子",
+        "pinned_tweet_id": "2060197582174040436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028355402879098881/VTdmZDUn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11587,
+          "following_count": 1279,
+          "like_count": 12794,
+          "listed_count": 27,
+          "media_count": 2982,
+          "tweet_count": 18192
+        },
+        "username": "0b7cm",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-19T04:02:37.000Z",
+        "description": "",
+        "id": "1394865879402352641",
+        "location": "🌈 ",
+        "name": "L",
+        "pinned_tweet_id": "1921366925906448589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140886887149568/A4paR9TY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 730,
+          "like_count": 3583,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 4086
+        },
+        "username": "blossomumma",
+        "verified": false
+      }
+    ]
+  }
+}

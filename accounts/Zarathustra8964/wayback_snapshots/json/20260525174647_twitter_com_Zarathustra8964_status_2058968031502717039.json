@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2058968031502717039",
+    "created_at": "2026-05-25T17:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058968031502717039"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058968031502717039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟睡着我买的枕头，睡觉抱着我买的抱枕，用着我买的手机，盖着我买的被子，脸上涂着我买的护肤品，闻着我买的香薰，穿着我买的睡衣和内裤，好爽啊，还想掌控她更多，满脑子都是小鸟的时候抱着她好爽啊，体香充满整个鼻腔，想要得到更多，做爱也不能满足我，做爱也不够深刻，我永远贪得无厌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2058968031502717039",
+        "created_at": "2026-05-25T17:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058968031502717039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058968031502717039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟睡着我买的枕头，睡觉抱着我买的抱枕，用着我买的手机，盖着我买的被子，脸上涂着我买的护肤品，闻着我买的香薰，穿着我买的睡衣和内裤，好爽啊，还想掌控她更多，满脑子都是小鸟的时候抱着她好爽啊，体香充满整个鼻腔，想要得到更多，做爱也不能满足我，做爱也不够深刻，我永远贪得无厌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 50,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}

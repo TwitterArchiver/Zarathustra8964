@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071675329912164352"
+      ]
+    },
+    "author_id": "2058879697011019776",
+    "conversation_id": "2071675337638072524",
+    "created_at": "2026-06-29T19:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T20:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071675337638072524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6QJpRXNaAv",
+          "end": 23,
+          "expanded_url": "https://x.com/Zarathustra8964/status/2071675337638072524/photo/1",
+          "media_key": "3_2071675329912164352",
+          "start": 0,
+          "url": "https://t.co/6QJpRXNaAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071675337638072524",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/6QJpRXNaAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071675329912164352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMARvIFa0AAmF0p.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071675329912164352"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "conversation_id": "2071675337638072524",
+        "created_at": "2026-06-29T19:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T20:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071675337638072524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QJpRXNaAv",
+              "end": 23,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2071675337638072524/photo/1",
+              "media_key": "3_2071675329912164352",
+              "start": 0,
+              "url": "https://t.co/6QJpRXNaAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071675337638072524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6QJpRXNaAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 137,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}

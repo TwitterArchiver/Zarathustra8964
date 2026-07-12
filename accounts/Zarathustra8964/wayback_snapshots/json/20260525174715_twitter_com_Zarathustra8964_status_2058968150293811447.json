@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2058957500314247284",
+    "created_at": "2026-05-25T17:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058968150293811447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2036687341251915776",
+          "start": 0,
+          "username": "yuvucat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058968150293811447",
+    "in_reply_to_user_id": "2036687341251915776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058957500314247284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuvucat 这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9765,
+        "height": 960,
+        "media_key": "13_2058957428499288064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058957428499288064/img/I7EzEK-eYH90S4o5.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058957428499288064/vid/avc1/320x426/2ZiRAlmZD-CHhGt5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058957428499288064/vid/avc1/480x640/_SxuqCE-5EacSJpd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058957428499288064/vid/avc1/720x960/SkDaWEI8s3jOYlln.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058957428499288064/pl/xHAlrQr3zZNuoyY3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2058957500314247284",
+        "created_at": "2026-05-25T17:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058968150293811447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2036687341251915776",
+              "start": 0,
+              "username": "yuvucat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058968150293811447",
+        "in_reply_to_user_id": "2036687341251915776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058957500314247284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuvucat 这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058957428499288064"
+          ]
+        },
+        "author_id": "2036687341251915776",
+        "conversation_id": "2058957500314247284",
+        "created_at": "2026-05-25T17:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058957500314247284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rudlnQpNhT",
+              "end": 70,
+              "expanded_url": "https://x.com/yuvucat/status/2058957500314247284/video/1",
+              "media_key": "13_2058957428499288064",
+              "start": 47,
+              "url": "https://t.co/rudlnQpNhT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058957500314247284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次和她见面前拍的 当时见面特别害羞我蹲在酒店房间门口蹲着 她开门了我也捂着脸也不敢看她。 https://t.co/rudlnQpNhT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 50,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T06:11:42.000Z",
+        "description": "女同/sub/一个小笔记本/我想我会一直爱你",
+        "id": "2036687341251915776",
+        "name": "雨淅淅沥沥",
+        "pinned_tweet_id": "2048815421042856070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046747042870112257/BfcRXQv9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 74,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1184
+        },
+        "username": "yuvucat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2069507412718186994",
+    "created_at": "2026-06-26T02:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070335919408992547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824023282359910400",
+          "start": 0,
+          "username": "521calypso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070335919408992547",
+    "in_reply_to_user_id": "1824023282359910400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070085789216878985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@521calypso 我也想发美味尸体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2069507412718186994",
+        "created_at": "2026-06-26T02:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070335919408992547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824023282359910400",
+              "start": 0,
+              "username": "521calypso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070335919408992547",
+        "in_reply_to_user_id": "1824023282359910400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070085789216878985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@521calypso 我也想发美味尸体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824023282359910400",
+        "conversation_id": "2069507412718186994",
+        "created_at": "2026-06-25T10:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070085789216878985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070085789216878985",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069507412718186994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 发尸体 比如食人秀色肢解冰恋肉畜碎尸奸尸之类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 136,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:00:28.000Z",
+        "description": "拟人",
+        "id": "1824023282359910400",
+        "location": "🇨🇳/🇪🇺",
+        "name": "中國精神病人",
+        "pinned_tweet_id": "1826475615115214983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049096504728768512/jR3mWq-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 118,
+          "like_count": 592,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "521calypso",
+        "verified": false
+      }
+    ]
+  }
+}

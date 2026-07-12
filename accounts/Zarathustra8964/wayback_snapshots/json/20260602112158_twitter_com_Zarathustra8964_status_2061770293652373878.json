@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061416501824131072"
+      ],
+      "media_source_tweet_id": [
+        "2061416504567177504"
+      ]
+    },
+    "author_id": "2058879697011019776",
+    "conversation_id": "2061770293652373878",
+    "created_at": "2026-06-02T11:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061770293652373878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863222669208100864",
+          "start": 3,
+          "username": "jiang_yi1212"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SoBHU7uzPC",
+          "end": 122,
+          "expanded_url": "https://x.com/jiang_yi1212/status/2061416504567177504/photo/1",
+          "media_key": "3_2061416501824131072",
+          "start": 99,
+          "url": "https://t.co/SoBHU7uzPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061770293652373878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061416504567177504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiang_yi1212: 我转生了！这几天转生了很多次……\n我是鳞溯\n女生互转互fo大欢迎！\n雪兔不再更新……\n🚪52 仅陪聊不开放朋友圈 消息看到就回\n希望可以找回所有互fo！求帮转！ https://t.co/SoBHU7uzPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061416501824131072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJufYvVbEAA6q49.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061416501824131072"
+          ],
+          "media_source_tweet_id": [
+            "2061416504567177504"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "conversation_id": "2061770293652373878",
+        "created_at": "2026-06-02T11:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061770293652373878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863222669208100864",
+              "start": 3,
+              "username": "jiang_yi1212"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoBHU7uzPC",
+              "end": 122,
+              "expanded_url": "https://x.com/jiang_yi1212/status/2061416504567177504/photo/1",
+              "media_key": "3_2061416501824131072",
+              "start": 99,
+              "url": "https://t.co/SoBHU7uzPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061770293652373878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061416504567177504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiang_yi1212: 我转生了！这几天转生了很多次……\n我是鳞溯\n女生互转互fo大欢迎！\n雪兔不再更新……\n🚪52 仅陪聊不开放朋友圈 消息看到就回\n希望可以找回所有互fo！求帮转！ https://t.co/SoBHU7uzPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061416501824131072"
+          ]
+        },
+        "author_id": "1863222669208100864",
+        "conversation_id": "2061416504567177504",
+        "created_at": "2026-06-01T11:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061416504567177504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SoBHU7uzPC",
+              "end": 104,
+              "expanded_url": "https://x.com/jiang_yi1212/status/2061416504567177504/photo/1",
+              "media_key": "3_2061416501824131072",
+              "start": 81,
+              "url": "https://t.co/SoBHU7uzPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061416504567177504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 555,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我转生了！这几天转生了很多次……\n我是鳞溯\n女生互转互fo大欢迎！\n雪兔不再更新……\n🚪52 仅陪聊不开放朋友圈 消息看到就回\n希望可以找回所有互fo！求帮转！ https://t.co/SoBHU7uzPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 112,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:04:56.000Z",
+        "description": "我是鳞溯 我秽土转生了这是鳞溯6.0 你们可以接着叫我小溯 我磕 zc 欢迎互fo🚪52，我接sk定制\n提问箱：https://t.co/120HYp3gKG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linsu_1102",
+                "end": 79,
+                "expanded_url": "https://ngl.link/linsu_1102",
+                "start": 56,
+                "url": "https://t.co/120HYp3gKG"
+              }
+            ]
+          }
+        },
+        "id": "1863222669208100864",
+        "name": "鳞6.0（接伤定制）",
+        "pinned_tweet_id": "2061416504567177504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061411783672487936/9xrrz5TC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "jiang_yi1212",
+        "verified": false
+      }
+    ]
+  }
+}

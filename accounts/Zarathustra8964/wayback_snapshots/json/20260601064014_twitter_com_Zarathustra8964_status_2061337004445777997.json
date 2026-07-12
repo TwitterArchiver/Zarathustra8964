@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2060928120320905503",
+    "created_at": "2026-06-01T06:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061337004445777997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035910882140782592",
+          "start": 0,
+          "username": "psychoactiveday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061337004445777997",
+    "in_reply_to_user_id": "2035910882140782592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060928120320905503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psychoactiveday 你永远不知道为什么中国最大吸毒网站会是pxx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2573,
+        "media_key": "3_2060928103782752256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnjMO2XIAA12D8.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2060928120320905503",
+        "created_at": "2026-06-01T06:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061337004445777997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035910882140782592",
+              "start": 0,
+              "username": "psychoactiveday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061337004445777997",
+        "in_reply_to_user_id": "2035910882140782592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060928120320905503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psychoactiveday 你永远不知道为什么中国最大吸毒网站会是pxx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060928103782752256"
+          ]
+        },
+        "author_id": "2035910882140782592",
+        "conversation_id": "2060928120320905503",
+        "created_at": "2026-05-31T03:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060928120320905503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9CpgkRggl",
+              "end": 28,
+              "expanded_url": "https://x.com/psychoactiveday/status/2060928120320905503/photo/1",
+              "media_key": "3_2060928103782752256",
+              "start": 5,
+              "url": "https://t.co/o9CpgkRggl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060928120320905503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 16200,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哦，牛逼 https://t.co/o9CpgkRggl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "互关寻回中……..",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 111,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T02:45:55.000Z",
+        "description": "客观唯心主义✝️；\n地球🌏online正式链接；\n相信永生；有罪的人；一个神经病：\n自主神经持续异常；心理药理咨询；频道https://t.co/QZ6n2GloYg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Mexico_RC",
+                "end": 83,
+                "expanded_url": "https://t.me/Mexico_RC",
+                "start": 60,
+                "url": "https://t.co/QZ6n2GloYg"
+              }
+            ]
+          }
+        },
+        "id": "2035910882140782592",
+        "name": "精神活性的空气力学（💊）",
+        "pinned_tweet_id": "2060305980282339647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059885023684132868/4Xx8wXQh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 56,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 175
+        },
+        "username": "psychoactiveday",
+        "verified": false
+      }
+    ]
+  }
+}
