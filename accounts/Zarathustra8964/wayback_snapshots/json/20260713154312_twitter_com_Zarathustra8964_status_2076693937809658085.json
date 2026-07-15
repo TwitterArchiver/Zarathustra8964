@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2076004086831517850",
+    "created_at": "2026-07-13T15:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076693937809658085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001626837332692996",
+          "start": 0,
+          "username": "yintianseln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076693937809658085",
+    "in_reply_to_user_id": "2001626837332692996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076240281469616278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yintianseln 谢谢你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2076004086831517850",
+        "created_at": "2026-07-13T15:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076693937809658085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001626837332692996",
+              "start": 0,
+              "username": "yintianseln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076693937809658085",
+        "in_reply_to_user_id": "2001626837332692996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076240281469616278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yintianseln 谢谢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001626837332692996",
+        "conversation_id": "2076004086831517850",
+        "created_at": "2026-07-12T09:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076240281469616278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076240281469616278",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076004086831517850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 那就好天天开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 138,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T12:14:16.000Z",
+        "description": "le｜账号包含大量自伤｜同类请找我互fo",
+        "id": "2001626837332692996",
+        "name": "小猫才写日记",
+        "pinned_tweet_id": "2055658511431057635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055659016597237760/zii1Gj8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 87,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "yintianseln",
+        "verified": false
+      }
+    ]
+  }
+}
