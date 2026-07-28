@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080616755911946240",
+        "3_2080616756289380352",
+        "3_2080616756889186304",
+        "3_2080616756322967552"
+      ]
+    },
+    "author_id": "2058879697011019776",
+    "conversation_id": "2080616811675136008",
+    "created_at": "2026-07-24T11:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080616811675136008"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I88ZLB9oiy",
+          "end": 36,
+          "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+          "media_key": "3_2080616755911946240",
+          "start": 13,
+          "url": "https://t.co/I88ZLB9oiy"
+        },
+        {
+          "display_url": "pic.x.com/I88ZLB9oiy",
+          "end": 36,
+          "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+          "media_key": "3_2080616756289380352",
+          "start": 13,
+          "url": "https://t.co/I88ZLB9oiy"
+        },
+        {
+          "display_url": "pic.x.com/I88ZLB9oiy",
+          "end": 36,
+          "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+          "media_key": "3_2080616756889186304",
+          "start": 13,
+          "url": "https://t.co/I88ZLB9oiy"
+        },
+        {
+          "display_url": "pic.x.com/I88ZLB9oiy",
+          "end": 36,
+          "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+          "media_key": "3_2080616756322967552",
+          "start": 13,
+          "url": "https://t.co/I88ZLB9oiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080616811675136008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神分裂发作时我会这样做 https://t.co/I88ZLB9oiy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080616755911946240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6nnbcAAwAR8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080616756289380352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6pBaoAAJUrZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080616756889186304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6rQa8AAGRRx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080616756322967552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_V6pJbIAAr24g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080616755911946240",
+            "3_2080616756289380352",
+            "3_2080616756889186304",
+            "3_2080616756322967552"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "conversation_id": "2080616811675136008",
+        "created_at": "2026-07-24T11:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080616811675136008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616755911946240",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            },
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616756289380352",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            },
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616756889186304",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            },
+            {
+              "display_url": "pic.x.com/I88ZLB9oiy",
+              "end": 36,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2080616811675136008/photo/1",
+              "media_key": "3_2080616756322967552",
+              "start": 13,
+              "url": "https://t.co/I88ZLB9oiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080616811675136008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神分裂发作时我会这样做 https://t.co/I88ZLB9oiy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 151,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 59
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}

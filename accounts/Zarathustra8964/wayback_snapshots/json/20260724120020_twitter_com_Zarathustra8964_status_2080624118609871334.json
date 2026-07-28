@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2080624118609871334",
+    "created_at": "2026-07-24T12:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080624118609871334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist2/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/drug_artist2/status/2080212638693490987",
+          "start": 8,
+          "url": "https://t.co/183Ro4x5wn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080624118609871334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080212638693490987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "限时英雄返场？ https://t.co/183Ro4x5wn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2080624118609871334",
+        "created_at": "2026-07-24T12:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080624118609871334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist2/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/drug_artist2/status/2080212638693490987",
+              "start": 8,
+              "url": "https://t.co/183Ro4x5wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080624118609871334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080212638693490987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "限时英雄返场？ https://t.co/183Ro4x5wn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989627406391635968",
+        "conversation_id": "2080212638693490987",
+        "created_at": "2026-07-23T08:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080212638693490987"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080212638693490987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19747,
+          "like_count": 154,
+          "quote_count": 13,
+          "reply_count": 55,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "药圈假死者来了😡😡😡\n因为货款跑路？死了？不不不\n11.12 非法经营专案\n每错就是月尘这个案子\n八个云南昆明的禁毒警来山东抓我\n我没有死\n我只是去坐牢了\n我依然是那个药圈英雄\n那个无所不能的药师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 151,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 35,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2076004086831517850",
+    "created_at": "2026-07-13T15:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076693905157083198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1630946419187277827",
+          "start": 0,
+          "username": "fksad_life"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076693905157083198",
+    "in_reply_to_user_id": "1630946419187277827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076505838139945179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fksad_life 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2076004086831517850",
+        "created_at": "2026-07-13T15:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076693905157083198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1630946419187277827",
+              "start": 0,
+              "username": "fksad_life"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076693905157083198",
+        "in_reply_to_user_id": "1630946419187277827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076505838139945179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fksad_life 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630946419187277827",
+        "conversation_id": "2076004086831517850",
+        "created_at": "2026-07-13T03:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T04:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076505838139945179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076505838139945179",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076004086831517850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 这个查拉图斯特拉在每天发小猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 138,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T15:01:58.000Z",
+        "description": "这里是 宇宙中心 （喜欢女人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fksad_life",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fksad_life",
+                "start": 0,
+                "url": "https://t.co/UGUaTnEsYf"
+              }
+            ]
+          }
+        },
+        "id": "1630946419187277827",
+        "location": "蝴蝶谷",
+        "name": "₍^._.^₎⟆",
+        "pinned_tweet_id": "2049592362717102285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034680899875508224/mT5iZmRr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 46,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/UGUaTnEsYf",
+        "username": "fksad_life",
+        "verified": false
+      }
+    ]
+  }
+}

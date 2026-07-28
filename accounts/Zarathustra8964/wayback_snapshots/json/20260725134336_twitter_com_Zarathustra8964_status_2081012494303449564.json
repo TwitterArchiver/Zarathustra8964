@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081012477022863360"
+      ]
+    },
+    "author_id": "2058879697011019776",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081012494303449564",
+    "created_at": "2026-07-25T13:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081012494303449564"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBWYo7qSzN",
+          "end": 41,
+          "expanded_url": "https://x.com/Zarathustra8964/status/2081012494303449564/photo/1",
+          "media_key": "3_2081012477022863360",
+          "start": 18,
+          "url": "https://t.co/BBWYo7qSzN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012494303449564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁想和我打王者\n加好友备注推特id https://t.co/BBWYo7qSzN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2081012477022863360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE90noagAA_tWg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081012477022863360"
+          ]
+        },
+        "author_id": "2058879697011019776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081012494303449564",
+        "created_at": "2026-07-25T13:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081012494303449564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBWYo7qSzN",
+              "end": 41,
+              "expanded_url": "https://x.com/Zarathustra8964/status/2081012494303449564/photo/1",
+              "media_key": "3_2081012477022863360",
+              "start": 18,
+              "url": "https://t.co/BBWYo7qSzN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012494303449564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想和我打王者\n加好友备注推特id https://t.co/BBWYo7qSzN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 151,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      }
+    ]
+  }
+}

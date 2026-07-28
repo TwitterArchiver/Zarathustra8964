@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2081103554400694371",
+    "created_at": "2026-07-26T10:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081325529249231097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951951950913921024",
+          "start": 0,
+          "username": "Jesenlin814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081325529249231097",
+    "in_reply_to_user_id": "1951951950913921024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081317459068674547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jesenlin814 为了躲进幻觉里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2081103554400694371",
+        "created_at": "2026-07-26T10:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081325529249231097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951951950913921024",
+              "start": 0,
+              "username": "Jesenlin814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081325529249231097",
+        "in_reply_to_user_id": "1951951950913921024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081317459068674547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jesenlin814 为了躲进幻觉里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951951950913921024",
+        "conversation_id": "2081103554400694371",
+        "created_at": "2026-07-26T09:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081317459068674547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081317459068674547",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081103554400694371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 当初为什么接触这个的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "name": "查拉图斯特拉.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 153,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T10:23:30.000Z",
+        "description": "",
+        "id": "1951951950913921024",
+        "name": "Jesen Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012164012767911936/bVRRWS6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 375,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "Jesenlin814",
+        "verified": false
+      }
+    ]
+  }
+}
