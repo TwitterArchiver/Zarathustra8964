@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2097561628166516997",
+    "created_at": "2026-09-09T15:57:10.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097715950477103319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999379781197135876",
+          "start": 0,
+          "username": "ju_ling61837s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097715950477103319",
+    "in_reply_to_user_id": "1999379781197135876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097561628166516997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ju_ling61837s 你咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14001,
+        "height": 1280,
+        "media_key": "13_2097561389837791232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097561389837791232/img/kklCAVc1Nu0t_1Os.jpg",
+        "public_metrics": {
+          "view_count": 15289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097561389837791232/vid/avc1/320x568/ENd6b2TzbZqmUZvM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097561389837791232/vid/avc1/480x852/afDsZvwZ7LUSQa7z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097561389837791232/vid/avc1/720x1280/u22RVJrzLrmM2ltN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097561389837791232/pl/lDK9kdGRGzqCO3gk.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2097561628166516997",
+        "created_at": "2026-09-09T15:57:10.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097715950477103319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999379781197135876",
+              "start": 0,
+              "username": "ju_ling61837s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097715950477103319",
+        "in_reply_to_user_id": "1999379781197135876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097561628166516997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ju_ling61837s 你咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097561389837791232"
+          ]
+        },
+        "author_id": "1999379781197135876",
+        "conversation_id": "2097561628166516997",
+        "created_at": "2026-09-09T05:43:57.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097561628166516997"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "直男"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "帅哥"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "ATM贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAUjpPGkuL",
+              "end": 71,
+              "expanded_url": "https://x.com/ju_ling61837s/status/2097561628166516997/video/1",
+              "media_key": "13_2097561389837791232",
+              "start": 48,
+              "url": "https://t.co/cAUjpPGkuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097561628166516997",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097561389837791232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32078,
+          "like_count": 103,
+          "quote_count": 1,
+          "reply_count": 156,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "打广告的死全家，卖逼的来找存在感死全家，一群母狗骚逼长的跟猪一样 #直男 #帅哥 #ATM贡奴 https://t.co/cAUjpPGkuL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097715950477103319",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2097058375842537954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058879697011019776/1779711138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 153,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-12T07:24:32.000Z",
+        "description": "🖤直渣 🚪28.8",
+        "id": "1999379781197135876",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097561628166516997",
+        "name": "零距离",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999380063171821568/hM1sIiJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 11,
+          "like_count": 17,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "ju_ling61837s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

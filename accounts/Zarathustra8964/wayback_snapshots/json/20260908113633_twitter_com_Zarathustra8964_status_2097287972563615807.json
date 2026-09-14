@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2097053402517905858",
+    "created_at": "2026-09-08T11:36:33.000Z",
+    "display_text_range": [
+      13,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097287972563615807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432335963930304532",
+          "start": 0,
+          "username": "skyismy1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097287972563615807",
+    "in_reply_to_user_id": "1432335963930304532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097259847016460351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skyismy1234 没办法我们边缘人是这样的，下水道的老鼠呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2097053402517905858",
+        "created_at": "2026-09-08T11:36:33.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097287972563615807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432335963930304532",
+              "start": 0,
+              "username": "skyismy1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097287972563615807",
+        "in_reply_to_user_id": "1432335963930304532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097259847016460351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyismy1234 没办法我们边缘人是这样的，下水道的老鼠呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1432335963930304532",
+        "conversation_id": "2097053402517905858",
+        "created_at": "2026-09-08T09:44:47.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097259847016460351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097259847016460351",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097053402517905858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 666大姐姐那你很消肿了哦，豪情在天呀！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097287972563615807",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2097058375842537954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058879697011019776/1779711138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 155,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-30T13:34:49.000Z",
+        "description": "🤔",
+        "id": "1432335963930304532",
+        "is_identity_verified": false,
+        "location": "Luxembourg",
+        "most_recent_tweet_id": "2097259847016460351",
+        "name": "花奈！",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582709686230392832/KPR23KZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 209,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "skyismy1234",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

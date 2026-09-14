@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2097053402517905858",
+    "created_at": "2026-09-08T17:38:03.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T18:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097378950121140576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792011763875184640",
+          "start": 0,
+          "username": "lnmng5262080968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097378950121140576",
+    "in_reply_to_user_id": "1792011763875184640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097346241680249075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnmng5262080968 我从来不觉得我有错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2097053402517905858",
+        "created_at": "2026-09-08T17:38:03.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097378950121140576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097378950121140576",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097346241680249075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我从来不觉得我有错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "conversation_id": "2097053402517905858",
+        "created_at": "2026-09-08T15:28:05.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097346241680249075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058879697011019776",
+              "start": 0,
+              "username": "Zarathustra8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097346241680249075",
+        "in_reply_to_user_id": "2058879697011019776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097053402517905858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zarathustra8964 我不觉得你有错"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097378950121140576",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2097058375842537954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058879697011019776/1779711138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 154,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "愚痴垢 黑泥｜这里不是真实的我",
+        "id": "1792011763875184640",
+        "is_identity_verified": false,
+        "location": "來世",
+        "most_recent_tweet_id": "2097378524487401875",
+        "name": "凛凛",
+        "pinned_tweet_id": "2039434499168374989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792011763875184640/1737976928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 300,
+          "like_count": 18102,
+          "listed_count": 5,
+          "media_count": 214,
+          "tweet_count": 6256
+        },
+        "url": "",
+        "username": "lnmng5262080968",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
