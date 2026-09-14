@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-14T19:07:21",
+  "last_updated": "2026-09-14T19:07:36",
   "html": {
     "https://web.archive.org/web/20260525165802if_/https://twitter.com/Zarathustra8964/status/2058955765856231857": {
       "status": "done",
@@ -819,10 +819,13 @@
       "last_updated": "2026-07-12T18:09:52"
     },
     "https://video.twimg.com/amplify_video/2097561389837791232/vid/avc1/720x1280/u22RVJrzLrmM2ltN.mp4?tag=14": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260909155710_twitter_com_Zarathustra8964_status_2097715950477103319.json"
-      ]
+      ],
+      "last_updated": "2026-09-14T19:07:36",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260909155710/https://video.twimg.com/amplify_video/2097561389837791232/vid/avc1/720x1280/u22RVJrzLrmM2ltN.mp4?tag=14",
+      "miss_count": 1
     }
   },
   "avatars": {
@@ -2495,7 +2498,7 @@
           "https://pbs.twimg.com/profile_images/1582709686230392832/KPR23KZF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-14T19:07:05"
+      "last_updated": "2026-09-14T19:07:33"
     },
     "20260908113656_twitter_com_Zarathustra8964_status_2097288070144106984.json": {
       "status": "done",
@@ -2519,7 +2522,7 @@
           "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-14T19:07:05"
+      "last_updated": "2026-09-14T19:07:33"
     },
     "20260908173812_twitter_com_Zarathustra8964_status_2097378986150281552.json": {
       "status": "done",
@@ -2543,7 +2546,7 @@
           "https://pbs.twimg.com/profile_images/2028146915486175232/tJXLqv4W_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-14T19:07:05"
+      "last_updated": "2026-09-14T19:07:33"
     },
     "20260909155710_twitter_com_Zarathustra8964_status_2097715950477103319.json": {
       "status": "unknown",
@@ -2557,7 +2560,7 @@
           "https://pbs.twimg.com/profile_images/1999380063171821568/hM1sIiJW_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-14T19:07:05"
+      "last_updated": "2026-09-14T19:07:36"
     },
     "20260913125029_twitter_com_Zarathustra8964_status_2099118518402957724.json": {
       "status": "done",
