@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2102047112355864938",
+    "created_at": "2026-09-21T14:47:40.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102047112355864938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nagji859917/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/nagji859917/status/2101607767832481986",
+          "start": 6,
+          "url": "https://t.co/DBKdnoait9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102047112355864938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101607767832481986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我笑的想死 https://t.co/DBKdnoait9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1693,
+        "media_key": "3_2101607757128630272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppHszbgAAP_pF.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1027,
+        "media_key": "3_2101607757187334144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppHtBbQAATs5q.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1825,
+        "media_key": "3_2101607757204086784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppHtFa4AAiksB.jpg",
+        "width": 1125
+      },
+      {
+        "height": 995,
+        "media_key": "3_2101607757157974016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSppHs6bQAArVGU.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2102047112355864938",
+        "created_at": "2026-09-21T14:47:40.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102047112355864938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagji859917/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/nagji859917/status/2101607767832481986",
+              "start": 6,
+              "url": "https://t.co/DBKdnoait9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102047112355864938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101607767832481986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我笑的想死 https://t.co/DBKdnoait9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101607757128630272",
+            "3_2101607757187334144",
+            "3_2101607757204086784",
+            "3_2101607757157974016"
+          ]
+        },
+        "author_id": "1993188557717225472",
+        "conversation_id": "2101607767832481986",
+        "created_at": "2026-09-20T09:41:52.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101607767832481986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALqxnaSICF",
+              "end": 93,
+              "expanded_url": "https://x.com/nagji859917/status/2101607767832481986/photo/1",
+              "media_key": "3_2101607757128630272",
+              "start": 70,
+              "url": "https://t.co/ALqxnaSICF"
+            },
+            {
+              "display_url": "pic.x.com/ALqxnaSICF",
+              "end": 93,
+              "expanded_url": "https://x.com/nagji859917/status/2101607767832481986/photo/1",
+              "media_key": "3_2101607757187334144",
+              "start": 70,
+              "url": "https://t.co/ALqxnaSICF"
+            },
+            {
+              "display_url": "pic.x.com/ALqxnaSICF",
+              "end": 93,
+              "expanded_url": "https://x.com/nagji859917/status/2101607767832481986/photo/1",
+              "media_key": "3_2101607757204086784",
+              "start": 70,
+              "url": "https://t.co/ALqxnaSICF"
+            },
+            {
+              "display_url": "pic.x.com/ALqxnaSICF",
+              "end": 93,
+              "expanded_url": "https://x.com/nagji859917/status/2101607767832481986/photo/1",
+              "media_key": "3_2101607757157974016",
+              "start": 70,
+              "url": "https://t.co/ALqxnaSICF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101607767832481986",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2101607757128630272"
+          },
+          {
+            "media_key": "3_2101607757187334144"
+          },
+          {
+            "media_key": "3_2101607757204086784"
+          },
+          {
+            "media_key": "3_2101607757157974016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2197,
+          "impression_count": 2751123,
+          "like_count": 16979,
+          "quote_count": 450,
+          "reply_count": 212,
+          "retweet_count": 2739
+        },
+        "reply_settings": "everyone",
+        "text": "타오바오 사기당해서 지랄떨다 우리아빠 시진핑이다 천안문 바닥에 매장시키겠다고 보내니까 메세지 삭제되고 전화ㅈㄴ오고 로그아웃됨 https://t.co/ALqxnaSICF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102047112355864938",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2097058375842537954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058879697011019776/1779711138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 153,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-25T05:22:48.000Z",
+        "description": "다른사람들한테 귀에 딱지않게 들었어 내가 생기 있는 미녀같다고 길거리에 예쁜 여자들이 널리고 널렸지만 다들 향기없는 꽃이나 진배없고 너는 마치 한 폭의 수묵화 두루마리에 생명을 불어넣은것 같다는 말 까지 들었어",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/nagji859917",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/nagji859917",
+                "start": 0,
+                "url": "https://t.co/OXvfxqahQR"
+              }
+            ]
+          }
+        },
+        "id": "1993188557717225472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101909953242165706",
+        "name": "낙지",
+        "pinned_tweet_id": "2088547103803109621",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993188557717225472/1785609039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083613757922803712/OtZsnNP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 328,
+          "like_count": 27091,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/OXvfxqahQR",
+        "username": "nagji859917",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

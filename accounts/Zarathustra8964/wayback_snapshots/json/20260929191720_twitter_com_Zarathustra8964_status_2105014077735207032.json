@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2058879697011019776",
+    "conversation_id": "2104788452848124331",
+    "created_at": "2026-09-29T19:17:20.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T20:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105014077735207032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845116988181577728",
+          "start": 0,
+          "username": "tangtang1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105014077735207032",
+    "in_reply_to_user_id": "1845116988181577728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104788452848124331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangtang1204 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_2104788437660573696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTW17rIboAAGemC.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058879697011019776",
+        "conversation_id": "2104788452848124331",
+        "created_at": "2026-09-29T19:17:20.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T20:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105014077735207032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845116988181577728",
+              "start": 0,
+              "username": "tangtang1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105014077735207032",
+        "in_reply_to_user_id": "1845116988181577728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104788452848124331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangtang1204 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104788437660573696"
+          ]
+        },
+        "author_id": "1845116988181577728",
+        "conversation_id": "2104788452848124331",
+        "created_at": "2026-09-29T04:20:46.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104788452848124331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25GLFxs21D",
+              "end": 26,
+              "expanded_url": "https://x.com/tangtang1204/status/2104788452848124331/photo/1",
+              "media_key": "3_2104788437660573696",
+              "start": 3,
+              "url": "https://t.co/25GLFxs21D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104788452848124331",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104788437660573696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/25GLFxs21D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-25T12:00:57.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2058879697011019776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105014077735207032",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2097058375842537954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058879697011019776/1779711138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 152,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "Zarathustra8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T14:59:15.000Z",
+        "description": "05/女同/地雷妹/od/割手/我爱我的小猫/我也喜欢所有可爱的孩子/https://t.co/UbgjEj3jy1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangtang1204",
+                "end": 58,
+                "expanded_url": "https://ngl.link/tangtang1204",
+                "start": 35,
+                "url": "https://t.co/UbgjEj3jy1"
+              }
+            ]
+          }
+        },
+        "id": "1845116988181577728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104788452848124331",
+        "name": "小糖",
+        "pinned_tweet_id": "2062313240840032330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845116988181577728/1778875273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062138922386550784/kXcvR_xb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 171,
+          "like_count": 356,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "tangtang1204",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
